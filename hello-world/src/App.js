@@ -11,7 +11,6 @@ function App() {
           <Card title={x.title}/>
         )
       })}
-      <p></p>
     </div>
   );
 }
